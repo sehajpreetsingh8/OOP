@@ -1,3 +1,0 @@
-﻿1>------ Build started: Project: lab, Configuration: Debug Win32 ------
-1>lab.vcxproj -> D:\seneca semester 2\OOP\workshops\WS06\lab\Debug\lab.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

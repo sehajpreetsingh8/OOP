@@ -1,2 +1,0 @@
-D:\seneca semester 2\OOP\workshops\WS07\lab\lab7\Debug\lab7.exe
-D:\seneca semester 2\OOP\workshops\WS07\lab\lab7\Debug\lab7.pdb

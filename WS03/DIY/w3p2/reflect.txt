@@ -1,6 +1,0 @@
-Name - Sehajpreet Singh
-ID - 124314204
-email - ssingh1053
-
-
-This workshop was based on member functions and privacy. Where member functions help to make connections with different classes and privacy limits the accessibility of the information in the member. The LAB part was of the same difficulty level as compared to the DIY part. While doing this workshop I learned about scope resolution and privatization of methods. In the LAB part of the workshop each and, every step was explained so it wasn't a difficult task alongside with it DIY part was similar to that of LAB with few changes and add on to the methods of classes. Although some functions were the same as setempty and isinvalid. The difficult part that I managed to tackle was the add function which is why I believe the workshop was harder, as I didn't understand the wording but got a little bit idea to solve it after viewing the recorded session of the class. After that, I managed to solve the problem without any difficulty. Which later helped me in the DIY part too.

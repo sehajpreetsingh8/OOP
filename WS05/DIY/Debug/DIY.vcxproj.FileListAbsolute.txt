@@ -1,2 +1,0 @@
-D:\seneca semester 2\OOP\workshops\WS05\DIY\Debug\DIY.exe
-D:\seneca semester 2\OOP\workshops\WS05\DIY\Debug\DIY.pdb

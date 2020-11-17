@@ -1,0 +1,4 @@
+//Name - Sehajpreet Singh
+//ID - 124314204
+// w2p2 -reflection
+While doing this workshop I got clarification of dynamic memory. I understood how the execution is done when memory is needed depends on the use of input. In class, I learned how to allocate the new memory by writing the keyword new[] and deallocate the same by the keyword delete[] associated by that new[]. Moreover, I practiced the allocation and deallocation while doing this in the workshop. Since the first part was easy to do as per instructions were given and coding step by step made it even easier. Most of the code was already provided which made the workshop easier to understand and code effectively. Moreover, the second part of the workshop was pretty similar to that of part 1 as most functions to do in part 2 resembled part 1. Since the first part involved working on given functions and similarly part 2 that is why I faced less fewer difficulties.  

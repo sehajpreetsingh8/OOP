@@ -1,0 +1,4 @@
+D:\seneca semester 2\OOP\workshops\WS07\lab\lab7\Debug\lab7.exe
+D:\seneca semester 2\OOP\workshops\WS07\lab\lab7\Debug\lab7.pdb
+D:\seneca semester 2\OOP\workshops\OOP244\WS07\lab\lab7\Debug\lab7.exe
+D:\seneca semester 2\OOP\workshops\OOP244\WS07\lab\lab7\Debug\lab7.pdb
