@@ -1,0 +1,2 @@
+D:\seneca semester 2\OOP\workshops\OOP244\workshops\WS08\Debug\WS08.exe
+D:\seneca semester 2\OOP\workshops\OOP244\workshops\WS08\Debug\WS08.pdb
